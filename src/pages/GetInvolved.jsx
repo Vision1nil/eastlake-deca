@@ -302,7 +302,7 @@ const GetInvolved = () => {
             {/* Testimonial 3 */}
             <div className="bg-white rounded-lg shadow-md p-6 border border-gray-100">
               <div className="flex items-center mb-4">
-                <div className="h-12 w-12 rounded-full bg-blue-100 flex items-center justify-center">
+                <div className="h-12 w-12 rounded-full bg-blue-100 flex items-center justify-center">0
                   <svg className="h-6 w-6 text-blue-700" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
                     <path fillRule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clipRule="evenodd"></path>
                   </svg>

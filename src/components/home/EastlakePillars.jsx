@@ -27,7 +27,7 @@ const EastlakePillars = () => {
               </div>
               <h3 className="mt-8 text-lg font-medium text-gray-900 tracking-tight text-center">Leadership</h3>
               <p className="mt-2 text-base text-gray-600 text-center">
-                Replace with your chapter's first pillar description.
+                Replace with chapter's first pillar description.
               </p>
             </div>
 
@@ -41,7 +41,7 @@ const EastlakePillars = () => {
               </div>
               <h3 className="mt-8 text-lg font-medium text-gray-900 tracking-tight text-center">Innovation</h3>
               <p className="mt-2 text-base text-gray-600 text-center">
-                Replace with your chapter's second pillar description.
+                Replace with chapter's second pillar description.
               </p>
             </div>
 
@@ -55,7 +55,7 @@ const EastlakePillars = () => {
               </div>
               <h3 className="mt-8 text-lg font-medium text-gray-900 tracking-tight text-center">Excellence</h3>
               <p className="mt-2 text-base text-gray-600 text-center">
-                Replace with your chapter's third pillar description.
+                Replace with chapter's third pillar description.
               </p>
             </div>
 
@@ -69,7 +69,7 @@ const EastlakePillars = () => {
               </div>
               <h3 className="mt-8 text-lg font-medium text-gray-900 tracking-tight text-center">Community</h3>
               <p className="mt-2 text-base text-gray-600 text-center">
-                Replace with your chapter's fourth pillar description.
+                Replace with chapter's fourth pillar description.
               </p>
             </div>
 
